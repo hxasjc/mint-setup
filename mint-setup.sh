@@ -33,7 +33,7 @@ cd ~/Code
 
 # clone the git repositories we use
 git clone https://github.com/chaslinux/hardware.sh
-git clone https://github.com/chaslinux/mint-extras
+git clone https://github.com/hxasjc/mint-extras
 # No need to do geekbench anymore using sysbench and glmark2 in hardware.sh to do benchmarking
 # git clone https://github.com/chaslinux/geekbench-dl
 git clone https://github.com/chaslinux/pts
